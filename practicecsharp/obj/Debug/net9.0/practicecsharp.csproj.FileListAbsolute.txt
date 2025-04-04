@@ -1,0 +1,14 @@
+C:\Users\peter\OneDrive\Documents\AppDevelopement\2025\CsharkPrac\practicecsharp\bin\Debug\net9.0\practicecsharp.exe
+C:\Users\peter\OneDrive\Documents\AppDevelopement\2025\CsharkPrac\practicecsharp\bin\Debug\net9.0\practicecsharp.deps.json
+C:\Users\peter\OneDrive\Documents\AppDevelopement\2025\CsharkPrac\practicecsharp\bin\Debug\net9.0\practicecsharp.runtimeconfig.json
+C:\Users\peter\OneDrive\Documents\AppDevelopement\2025\CsharkPrac\practicecsharp\bin\Debug\net9.0\practicecsharp.dll
+C:\Users\peter\OneDrive\Documents\AppDevelopement\2025\CsharkPrac\practicecsharp\bin\Debug\net9.0\practicecsharp.pdb
+C:\Users\peter\OneDrive\Documents\AppDevelopement\2025\CsharkPrac\practicecsharp\obj\Debug\net9.0\practicecsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peter\OneDrive\Documents\AppDevelopement\2025\CsharkPrac\practicecsharp\obj\Debug\net9.0\practicecsharp.AssemblyInfoInputs.cache
+C:\Users\peter\OneDrive\Documents\AppDevelopement\2025\CsharkPrac\practicecsharp\obj\Debug\net9.0\practicecsharp.AssemblyInfo.cs
+C:\Users\peter\OneDrive\Documents\AppDevelopement\2025\CsharkPrac\practicecsharp\obj\Debug\net9.0\practicecsharp.csproj.CoreCompileInputs.cache
+C:\Users\peter\OneDrive\Documents\AppDevelopement\2025\CsharkPrac\practicecsharp\obj\Debug\net9.0\practicecsharp.dll
+C:\Users\peter\OneDrive\Documents\AppDevelopement\2025\CsharkPrac\practicecsharp\obj\Debug\net9.0\refint\practicecsharp.dll
+C:\Users\peter\OneDrive\Documents\AppDevelopement\2025\CsharkPrac\practicecsharp\obj\Debug\net9.0\practicecsharp.pdb
+C:\Users\peter\OneDrive\Documents\AppDevelopement\2025\CsharkPrac\practicecsharp\obj\Debug\net9.0\practicecsharp.genruntimeconfig.cache
+C:\Users\peter\OneDrive\Documents\AppDevelopement\2025\CsharkPrac\practicecsharp\obj\Debug\net9.0\ref\practicecsharp.dll
