@@ -1,10 +1,24 @@
 ﻿
+using System.Reflection.PortableExecutable;
+
 public interface ICharacter
 {
     void Attack();
     void Defend();
 
 }
+
+public interface ISpecialAbility
+{
+
+    void UseSpecial();
+
+}
+
+
+
+
+
 
 public class Knight : ICharacter
 {
@@ -18,7 +32,7 @@ public class Knight : ICharacter
     }
 }
 
-public class Wizard : ICharacter
+public class Wizard : ICharacter, ISpecialAbility
 {
     public void Attack()
     {
@@ -28,7 +42,31 @@ public class Wizard : ICharacter
     {
         Console.WriteLine("The Wizard defends");
     }
+    public void UseSpecial()
+    {
+        Console.WriteLine("The Wizard Now uses It's special ability");
+    }
 }
+
+public class Mage : ICharacter, ISpecialAbility
+{
+    public void Attack()
+    {
+        Console.WriteLine("The Mage Attacks");
+    }
+    public void Defend()
+    {
+        Console.WriteLine("The Mage defends");
+    }
+    public void UseSpecial()
+    {
+        Console.WriteLine("The Mage Now uses It's special ability");
+    }
+}
+
+
+
+
 
 
 public class Game
@@ -36,14 +74,34 @@ public class Game
     public static void Main()
     {
         ICharacter knight = new Knight();
-        ICharacter wizard = new Wizard();
+        Mage mage = new Mage();
+        Wizard wizard = new Wizard();
+
+        List<ICharacter> characters = new List<ICharacter>();
+        characters.Add(knight);
+        characters.Add(mage);
+        characters.Add(wizard);
 
 
-        knight.Attack();
-        knight.Defend();
+        foreach (ICharacter character in characters)
+        {
+            character.Attack();
+            character.Defend();
 
-        wizard.Attack();
-        wizard.Defend();
+            if (character is ISpecialAbility special)
+            {
+                special.UseSpecial();
+            }
+            Console.WriteLine("");
+
+        }
+
+
+
+
+
+
+
 
     }
 

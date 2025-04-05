@@ -12,3 +12,4 @@ C:\Users\peter\OneDrive\Documents\AppDevelopement\2025\CsharkPrac\practicecsharp
 C:\Users\peter\OneDrive\Documents\AppDevelopement\2025\CsharkPrac\practicecsharp\obj\Debug\net9.0\practicecsharp.pdb
 C:\Users\peter\OneDrive\Documents\AppDevelopement\2025\CsharkPrac\practicecsharp\obj\Debug\net9.0\practicecsharp.genruntimeconfig.cache
 C:\Users\peter\OneDrive\Documents\AppDevelopement\2025\CsharkPrac\practicecsharp\obj\Debug\net9.0\ref\practicecsharp.dll
+C:\Users\peter\OneDrive\Documents\AppDevelopement\2025\CsharkPrac\practicecsharp\obj\Debug\net9.0\practicecsharp.sourcelink.json
